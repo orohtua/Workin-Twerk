@@ -1,0 +1,9 @@
+# Docker ignore for building image
+
+node_modules
+.git
+*.pyc
+__pycache__
+*.log
+npm-debug.log*
+.DS_Store
